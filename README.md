@@ -26,7 +26,7 @@ Welcome to Kanso, your ultimate home decor companion! Transform your living spac
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/akshay-rf/Kanso.git
-   cd Kansa
+   cd Kanso
    ```
 2. **Install dependencies:**
 	```bash
