@@ -68,7 +68,7 @@ This will set up the necessary files and dependencies to build Kanso locally.
 - Explore the "Textures" section to add textures to your walls.
 ![enter image description here](https://i.ibb.co/3vd44rk/x3.png)
 - Toggle Texture in the Paint section. Click on a wall to apply it to the selected texture after clicking the paint button.
-![enter image description here](https://i.ibb.co/5BJTF6H/Screenshot-2023-12-19-201135.png)
+  ![enter image description here](https://i.ibb.co/5BJTF6H/Screenshot-2023-12-19-201135.png)
 
 ### 5. AI Painter
 
