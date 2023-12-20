@@ -33,7 +33,7 @@ Welcome to Kanso, your ultimate home decor companion! Transform your living spac
 	pip install -r requirements.txt
 	```
  
- 3.  **Set up the YOLOv8n model:**
+ 3.  **Set up the YOLOv8n model (OPTIONAL):**
    -   Open the `config.yaml` file in `Model` folder.
   -   Specify and update path for your training, validation and testing dataset.
   - Run the `train.py` script to train your own YOLOv8 model.
