@@ -76,14 +76,9 @@ This will set up the necessary files and dependencies to build Kanso locally.
 ![enter image description here](https://i.ibb.co/9wBHrNP/Screenshot-2023-12-19-201520.png)
 
 ## 🤖 YOLOv8n Model
-The Model used in the app is trained on a dataset of 4200 images. The training dataset included four labels `['People', 'Ceiling', 'Floor', 'Walls']` . Other labels are added for the model to not confuse floor or ceiling with a wall.
+- The Model used in the app is trained on a dataset of 4200 images. The training dataset included four names `['People', 'Ceiling', 'Floor', 'Walls']` . Other names are added for the model to know what not to detect.
+- Thanks to [Jacks Workspace](https://universe.roboflow.com/jacks-workspace) for the training dataset.
 
-![enter image description here](https://i.ibb.co/Wtv9YGf/Box-F1-curve.png)
-![enter image description here](https://i.ibb.co/p2HxDvr/Box-P-curve.png)
-![enter image description here](https://i.ibb.co/wJD4zFF/Box-PR-curve.png)
-![enter image description here](https://i.ibb.co/m6fmR2d/Box-R-curve.png)
-![enter image description here](https://i.ibb.co/27Zx8t8/confusion-matrix.png)
-![enter image description here](https://i.ibb.co/9VQpgC9/Mask-F1-curve.png)
 ![enter image description here](https://i.ibb.co/znpsL4p/results.png)
 
 ## 🤝 Contributing
